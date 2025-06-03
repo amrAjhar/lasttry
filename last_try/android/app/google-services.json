@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684240182376",
+    "project_id": "hakan-e439d",
+    "storage_bucket": "hakan-e439d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684240182376:android:413536b2197e2ad7a7afdd",
+        "android_client_info": {
+          "package_name": "com.example.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684240182376-9no74004rvo2lpq2l85oisok1n2veel3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.notes_app",
+            "certificate_hash": "e3ef2e42e78dfcc7afe92413faf6574da4f0b7f8"
+          }
+        },
+        {
+          "client_id": "684240182376-lp6k7q3amkndc4n83isnfvbatv3aib9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FICh1szLEWMNw1bqD2CY7hmWNeGwoY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684240182376-lp6k7q3amkndc4n83isnfvbatv3aib9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
